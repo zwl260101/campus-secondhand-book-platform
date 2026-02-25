@@ -1,0 +1,15 @@
+# 忽略 SQLite 数据库文件
+*.db
+*.db-journal
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略虚拟环境
+venv/
+env/
+
+# 忽略日志文件
+*.log
