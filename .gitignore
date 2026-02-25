@@ -1,0 +1,12 @@
+# 忽略SQLite数据库文件
+*.db
+*.db-journal
+
+# 忽略Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略虚拟环境（如果有）
+venv/
+env/
